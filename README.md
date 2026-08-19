@@ -25,7 +25,7 @@ The project includes:
  Data visualization using Matplotlib
  Study hours vs. final marks analysis
 ## Key Insights
-1. Students' final marks can be compared based on their study hours, attendance, assignments, and exam scores.
+1. Students final marks can be compared based on their study hours, attendance, assignments, and exam scores.
 2. The average final marks vary between different gender groups.
 3. The average final marks also differ across cities.
 4. Study hours and final marks can be analyzed using a scatter plot and correlation to understand their relationship.
